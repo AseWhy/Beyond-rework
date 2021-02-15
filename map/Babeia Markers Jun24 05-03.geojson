@@ -1,0 +1,50 @@
+{ "type": "FeatureCollection", "features": [
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [32.768, 10.36] },
+   "properties": {
+      "id": "markerElement1",
+      "type": "hot_springs"
+   }
+},
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [32.08200000000002, 11.817999999999998] },
+   "properties": {
+      "id": "markerElement2",
+      "type": "mine"
+   }
+},
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [43.51599999999999, 23.117999999999995] },
+   "properties": {
+      "id": "markerElement3",
+      "type": "bridge"
+   }
+},
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [43.51599999999999, 23.117999999999995] },
+   "properties": {
+      "id": "markerElement4",
+      "type": "inn"
+   }
+},
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [9.286000000000001, 27.358000000000004] },
+   "properties": {
+      "id": "markerElement5",
+      "type": "lighthouse"
+   }
+},
+{
+   "type": "Feature",
+   "geometry": { "type": "Point", "coordinates": [43.53, 9.572000000000003] },
+   "properties": {
+      "id": "markerElement6",
+      "type": "battlefield"
+   }
+}
+]}

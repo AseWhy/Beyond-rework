@@ -1,0 +1,14 @@
+Id,Religion,Color,Type,Form,Deity,Area km2,Believers
+14,Romian Pantheon,#af93c1,Organized,Polytheism,Sornum - The Two,48213,137660
+15,Faith of Grecquano,#cabc83,Organized,Monotheism,Grecquano - The Purple Jackal,266607,728277
+1,Nawatli Spirits,#bbeac0,Folk,Animism,,4572,9850
+2,Portuzian Beliefs,#8cafc3,Folk,Shamanism,Virano - The Cheerful,4680,15236
+4,Luari Spirits,#a9d274,Folk,Animism,,47736,125831
+5,Elladan Spirits,#ac87be,Folk,Shamanism,Phata - The Brave Panther,68130,154945
+7,Slovan Gods,#7c4a9e,Folk,Polytheism,Zizhesk - The Pure Creator,1395,2972
+8,Angshire Gods,#d896de,Folk,Polytheism,Thorterton - The Spirit of the Moon,900,564
+10,Norse Ancestors,#c4beb6,Folk,Ancestor,Nesvikagil - The Grey Council,15831,43081
+11,Koryo Beliefs,#82d1c7,Folk,Shamanism,Dedong - The Fair Spider,1962,4427
+12,Keltan Beliefs,#f9cbd3,Folk,Animism,,5130,12546
+13,Shwazen Beliefs,#e97f7d,Folk,Animism,,2475,5274
+0,No religion,,,,,0,0

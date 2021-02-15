@@ -1,0 +1,7 @@
+Id,Burg,Province,State,Culture,Religion,Population,Longitude,Latitude,Elevation (m),Capital,Port,Citadel,Walls,Plaza,Temple,Shanty Town
+28,Хартмарк,Хартмарк Province,Александрийская Империя,Tallian,Faith of Grecquano,8419,52.24599999999998,21.470000000000013,3,capital,,,,,,
+29,Санкт-Иактбург,Санкт-Иактбург Province,Александрийская Империя,Tallian,Faith of Grecquano,6043,40.75399999999999,21.998000000000005,52,,,,walls,,,shanty town
+30,Осетинск,Осетинск Province,Республика Парадоксия,Nawatli,Faith of Grecquano,11749,49.73200000000003,-4.446000000000012,3,capital,,,walls,plaza,,shanty town
+31,Сталинград,Сталинград Province,Республика Парадоксия,Luari,Luari Spirits,6450,30.299999999999983,1.6580000000000013,541,,,,,,,
+32,Дистопия,Дистопия Province,Корпорация Орбиталь,Norse,Faith of Grecquano,8432,13.472000000000008,29.689999999999998,3,capital,,,,plaza,,
+33,Новый Ордынск,Новый Ордынск Province,Корпорация Орбиталь,Luari,Luari Spirits,6063,9.346000000000004,15.366,63,,,,,,,
