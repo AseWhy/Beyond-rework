@@ -1,0 +1,6 @@
+{
+    "name": "alecs/beyond-rework",
+    "require": {
+        "krugozor/database": "^1.0"
+    }
+}
